@@ -1,1 +1,5 @@
-{"version": "2.9", "build": 11, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.9 - text-only script rescue (much faster takes), no 3-second cap on the test dictation, speed records on the Setup page, floating-bar animation fallback, fixed Auto-paste check and Save button, wrapped settings labels, custom sliders and UI polish"}
+{
+  "version": "2.10",
+  "build": 12,
+  "notes": "Speed + floating bar: connection reuse for every Google call, Mac-matching Gemini models (3.8-flash default), script rescue with strict retry and logging, streaming test dictation, bar topmost/placement fixes with peak level feed."
+}
