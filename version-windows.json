@@ -1,1 +1,1 @@
-{"version": "2.4", "build": 6, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.4 - installer fix only: UI Automation assemblies are now also hunted in the GAC version folders, with a diagnostic report if they are nowhere"}
+{"version": "2.5", "build": 7, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.5 - streaming fix: modern TLS forced at startup, and the Setup page now shows the exact reason whenever a take falls back to batch"}
