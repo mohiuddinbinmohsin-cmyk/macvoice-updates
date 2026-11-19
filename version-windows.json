@@ -1,1 +1,1 @@
-{"version": "2.6", "build": 8, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.6 - streaming transport rebuilt by hand (raw socket + explicit TLS), stream verdict on every take, Downloads fallback can no longer reinstall the same version"}
+{"version": "2.7", "build": 9, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.7 - a full app now: Start Menu, Desktop and Settings - Apps registration with uninstaller, Hub restyled on the Mac design, hand-built streaming transport"}
