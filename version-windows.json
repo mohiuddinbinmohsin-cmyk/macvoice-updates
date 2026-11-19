@@ -1,1 +1,1 @@
-{"version": "2.2", "build": 4, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.2 - same to same as Mac Voice 1.26: faithful bar ports at Mac geometry, per-app styles, auto-learn dictionary, mute while dictating, fast path, paragraph paste, history audio + Retry, Insights, Mac Hub pages"}
+{"version": "2.3", "build": 5, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.3 - installer fix only: the UI Automation assemblies are now hunted down wherever this PC keeps them (compiler folder, framework folders, GAC)"}
