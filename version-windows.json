@@ -1,1 +1,1 @@
-{"version": "2.5", "build": 7, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.5 - streaming fix: modern TLS forced at startup, and the Setup page now shows the exact reason whenever a take falls back to batch"}
+{"version": "2.6", "build": 8, "zip_b64": "WindowsVoice.zip.b64", "notes": "Windows Voice 2.6 - streaming transport rebuilt by hand (raw socket + explicit TLS), stream verdict on every take, Downloads fallback can no longer reinstall the same version"}
