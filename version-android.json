@@ -1,1 +1,1 @@
-{"version": "1.41", "build": 41, "apk_b64": "VoiceToText.apk.b64", "notes": "API key help: a button in Engine & Keys now opens Google AI Studio to create your free key, with plain step-by-step instructions"}
+{"version": "1.42", "build": 42, "apk_b64": "VoiceToText.apk.b64", "notes": "New: Rewrite button — after dictating, tap the orange sparkle button under the bubble to rewrite your text neatly, formally, or shorter. Rollback to v1.41 is available in the App Update card.", "rollback_version": "1.41", "rollback_build": 43, "rollback_apk_b64": "VoiceToText-rollback.apk.b64"}
