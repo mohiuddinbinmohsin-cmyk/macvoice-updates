@@ -1,1 +1,1 @@
-{"version": "1.32", "build": 32, "apk_b64": "VoiceToText.apk.b64", "notes": "LIVE hold mode: text appears in the field while you speak; in-app updates; rollback support"}
+{"version": "1.33", "build": 33, "apk_b64": "VoiceToText.apk.b64", "notes": "Bottom navigation bar: Home, Settings, Check, More tabs instead of one long scroll"}
