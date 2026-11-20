@@ -1,6 +1,6 @@
 {
-  "version": "2.12",
-  "build": 14,
+  "version": "2.13",
+  "build": 15,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Every second on the table: per-take timing breakdown (stream wait / rescue incl. failures / polish) on Setup and in the log; 15s rescue budget; all Settings dropdowns apply live; Wave Rider stretches with bar length."
+  "notes": "One-shot rescue: one quick re-listen under a hard 8s cap, then stray Devanagari is converted straight into the Bengali script block instead of rejecting the take. The 24s rescue is gone."
 }
