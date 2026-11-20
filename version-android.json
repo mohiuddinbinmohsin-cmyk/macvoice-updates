@@ -1,1 +1,1 @@
-{"version": "1.39", "build": 39, "apk_b64": "VoiceToText.apk.b64", "notes": "Script guard removed (v1.26-style direct delivery; Dictionary is the fix layer). Update auto-check every 3 hours with notification. Waveform rebuilt to jump with your voice"}
+{"version": "1.40", "build": 40, "apk_b64": "VoiceToText.apk.b64", "notes": "Waveform lag fixed at the source (small mic buffer, peak levels - bars move as you speak). Dictionary is now its own tab in the bottom bar"}
