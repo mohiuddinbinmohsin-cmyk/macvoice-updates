@@ -1,1 +1,1 @@
-{"version": "1.38", "build": 38, "apk_b64": "VoiceToText.apk.b64", "notes": "Waveform responds twice as fast to your voice; new Script guard switch in Dictation Options - OFF gives exact v1.26 speed (no filter), ON keeps drift protection"}
+{"version": "1.39", "build": 39, "apk_b64": "VoiceToText.apk.b64", "notes": "Script guard removed (v1.26-style direct delivery; Dictionary is the fix layer). Update auto-check every 3 hours with notification. Waveform rebuilt to jump with your voice"}
