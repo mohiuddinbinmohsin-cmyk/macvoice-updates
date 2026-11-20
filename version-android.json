@@ -1,1 +1,1 @@
-{"version": "1.36", "build": 36, "apk_b64": "VoiceToText.apk.b64", "notes": "Live preview in Settings for bubble size and wave style; animation now follows your voice only - still in silence, jumps when you speak"}
+{"version": "1.37", "build": 37, "apk_b64": "VoiceToText.apk.b64", "notes": "Auto-learn dictionary (Mac-style): correct a word after dictation, leave it 2 seconds, it is learned for next time. Stronger Gemini rescue on heavy-drift days"}
