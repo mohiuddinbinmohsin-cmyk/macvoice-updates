@@ -1,1 +1,1 @@
-{"version": "1.35", "build": 35, "apk_b64": "VoiceToText.apk.b64", "notes": "Button text no longer clipped; UI polish; 5 new floating-button wave animations to choose in Settings"}
+{"version": "1.36", "build": 36, "apk_b64": "VoiceToText.apk.b64", "notes": "Live preview in Settings for bubble size and wave style; animation now follows your voice only - still in silence, jumps when you speak"}
