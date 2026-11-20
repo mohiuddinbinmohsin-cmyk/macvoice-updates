@@ -1,1 +1,1 @@
-{"version": "1.33", "build": 33, "apk_b64": "VoiceToText.apk.b64", "notes": "Bottom navigation bar: Home, Settings, Check, More tabs instead of one long scroll"}
+{"version": "1.34", "build": 34, "apk_b64": "VoiceToText.apk.b64", "notes": "Update notifications: a heads-up notification arrives when a new version is out; tap opens the More tab"}
