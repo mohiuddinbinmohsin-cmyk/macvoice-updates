@@ -1,1 +1,1 @@
-{"version": "1.40", "build": 40, "apk_b64": "VoiceToText.apk.b64", "notes": "Waveform lag fixed at the source (small mic buffer, peak levels - bars move as you speak). Dictionary is now its own tab in the bottom bar"}
+{"version": "1.41", "build": 41, "apk_b64": "VoiceToText.apk.b64", "notes": "API key help: a button in Engine & Keys now opens Google AI Studio to create your free key, with plain step-by-step instructions"}
