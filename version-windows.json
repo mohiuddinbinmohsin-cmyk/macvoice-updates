@@ -1,6 +1,6 @@
 {
-  "version": "2.15",
-  "build": 17,
+  "version": "2.16",
+  "build": 18,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Groq Whisper fallback, the Rewrite pill, AAC-compressed batch uploads, a tray update notification, plus fixes: Gurmukhi script tidy, auto-learn final check, and lone-key shortcuts (Right Ctrl) repaired"
+  "notes": "Fixes the build error that stopped the 2.15 update, and the Rewrite pill now retires itself once your text is sent. Plus 2.15: Groq fallback, Rewrite pill, AAC uploads, tray update notification, Gurmukhi tidy, auto-learn final check, lone-key (Right Ctrl) repair"
 }

@@ -1,1 +1,1 @@
-{"version": "1.27", "build": 37, "zip_b64": "MacVoice.zip.b64", "notes": "Groq Whisper fallback, the Rewrite pill, AAC-compressed batch uploads, and a system notification when an update is ready"}
+{"version": "1.28", "build": 38, "zip_b64": "MacVoice.zip.b64", "notes": "The Rewrite pill now retires itself once your text is sent (it watches the field), on top of 1.27: Groq fallback, Rewrite, AAC uploads, update notifications"}
