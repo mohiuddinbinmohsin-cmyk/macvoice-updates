@@ -1,6 +1,6 @@
 {
-  "version": "2.16",
-  "build": 18,
+  "version": "2.17",
+  "build": 19,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Fixes the build error that stopped the 2.15 update, and the Rewrite pill now retires itself once your text is sent. Plus 2.15: Groq fallback, Rewrite pill, AAC uploads, tray update notification, Gurmukhi tidy, auto-learn final check, lone-key (Right Ctrl) repair"
+  "notes": "The Rewrite pill now vanishes as soon as you send: the watch reads the exact field your words landed in (2.16 read the whole page, whose history still held your sent message). Plus 2.15/2.16: Groq fallback, Rewrite pill, AAC uploads, tray notification, Gurmukhi tidy, auto-learn final check, Right Ctrl repair"
 }
