@@ -1,6 +1,6 @@
 {
-  "version": "2.14",
-  "build": 16,
+  "version": "2.15",
+  "build": 17,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Slow script rescue removed by your choice: no extra Google calls after a take. Only the instant local Devanagari-to-Bengali script tidy remains; romanized drift is delivered as-is."
+  "notes": "Groq Whisper fallback, the Rewrite pill, AAC-compressed batch uploads, a tray update notification, plus fixes: Gurmukhi script tidy, auto-learn final check, and lone-key shortcuts (Right Ctrl) repaired"
 }
