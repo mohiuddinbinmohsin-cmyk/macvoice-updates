@@ -1,6 +1,6 @@
 {
-  "version": "2.18",
-  "build": 20,
+  "version": "2.19",
+  "build": 21,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Faster fallback: a silent stream is dropped after ~2.5s instead of up to 10s; a failed Groq attempt now shows its reason in Last result; the Setup Groq check tests your real key (Reachable · key OK / Key rejected). Plus the 2.17 pill watch and all of 2.15"
+  "notes": "Mac 1.30’s mirror — your four asks from the phone: API keys are locked now (Change / Save / Cancel, with a Get-a-key link beside each field); Dictation history shows the model and the transcription time for every entry; the recording bar moves only with your voice and rests still in silence"
 }
