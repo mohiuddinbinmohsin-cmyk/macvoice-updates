@@ -1,6 +1,6 @@
 {
-  "version": "2.17",
-  "build": 19,
+  "version": "2.18",
+  "build": 20,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "The Rewrite pill now vanishes as soon as you send: the watch reads the exact field your words landed in (2.16 read the whole page, whose history still held your sent message). Plus 2.15/2.16: Groq fallback, Rewrite pill, AAC uploads, tray notification, Gurmukhi tidy, auto-learn final check, Right Ctrl repair"
+  "notes": "Faster fallback: a silent stream is dropped after ~2.5s instead of up to 10s; a failed Groq attempt now shows its reason in Last result; the Setup Groq check tests your real key (Reachable · key OK / Key rejected). Plus the 2.17 pill watch and all of 2.15"
 }
