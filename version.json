@@ -1,6 +1,6 @@
 {
-  "version": "1.31",
-  "build": 41,
+  "version": "1.32",
+  "build": 42,
   "zip_b64": "MacVoice.zip.b64",
-  "notes": "The hang fix: Mac Voice could freeze solid while you worked — the background watches read your field on the main thread with no time limit, and a busy app blocked them. The watches now run on background threads and every read has a half-second limit. Nothing else changes."
+  "notes": "Groq removed at your word — the fallback is the Gemini-only chain again (no Groq key field, probe row, or fallback step). Plus a faster Gemini fallback: the fast path now sends the small AAC encode instead of the whole WAV, so the upload finishes much sooner on a slow line."
 }

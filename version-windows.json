@@ -1,6 +1,6 @@
 {
-  "version": "2.20",
-  "build": 22,
+  "version": "2.21",
+  "build": 23,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "The hang fix (Mac 1.31’s mirror): the correction watch and the rewrite pill’s field watch read your field on the UI thread — a busy app could block them and freeze Windows Voice. Both watches now poll on background threads. Behaviour is otherwise unchanged."
+  "notes": "Groq removed at your word (Mac 1.32’s mirror) — the fallback is the Gemini-only chain again. Plus a faster Gemini fallback: the fast path now sends the small AAC (.m4a) encode instead of the whole WAV, so the upload finishes much sooner on a slow line."
 }
