@@ -1,1 +1,6 @@
-{"version": "1.30", "build": 40, "zip_b64": "MacVoice.zip.b64", "notes": "Your four asks from the phone: API keys are locked now (Change / Save / Cancel, with a Get-a-key link beside each field); Dictation history shows the model and the transcription time for every entry; Setup reachability rows show milliseconds; the recording bar moves only with your voice and rests still in silence"}
+{
+  "version": "1.31",
+  "build": 41,
+  "zip_b64": "MacVoice.zip.b64",
+  "notes": "The hang fix: Mac Voice could freeze solid while you worked — the background watches read your field on the main thread with no time limit, and a busy app blocked them. The watches now run on background threads and every read has a half-second limit. Nothing else changes."
+}

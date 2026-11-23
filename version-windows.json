@@ -1,6 +1,6 @@
 {
-  "version": "2.19",
-  "build": 21,
+  "version": "2.20",
+  "build": 22,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Mac 1.30’s mirror — your four asks from the phone: API keys are locked now (Change / Save / Cancel, with a Get-a-key link beside each field); Dictation history shows the model and the transcription time for every entry; the recording bar moves only with your voice and rests still in silence"
+  "notes": "The hang fix (Mac 1.31’s mirror): the correction watch and the rewrite pill’s field watch read your field on the UI thread — a busy app could block them and freeze Windows Voice. Both watches now poll on background threads. Behaviour is otherwise unchanged."
 }
