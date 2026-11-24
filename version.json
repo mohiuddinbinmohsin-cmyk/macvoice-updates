@@ -1,6 +1,6 @@
 {
-  "version": "1.32",
-  "build": 42,
+  "version": "1.33",
+  "build": 43,
   "zip_b64": "MacVoice.zip.b64",
-  "notes": "Groq removed at your word — the fallback is the Gemini-only chain again (no Groq key field, probe row, or fallback step). Plus a faster Gemini fallback: the fast path now sends the small AAC encode instead of the whole WAV, so the upload finishes much sooner on a slow line."
+  "notes": "Hang fix, round two — built from your Sample Process file. The freeze was the microphone start itself stalling inside macOS's audio system (the Bluetooth route never answered), right on the app's main thread. The mic start now runs in the background under a 5-second watchdog: if the audio system ever stalls like that again, the app stays alive, the bar comes down, and you get a 'Microphone didn't respond' message instead of a frozen app. The Hub's level meter got the same treatment."
 }
