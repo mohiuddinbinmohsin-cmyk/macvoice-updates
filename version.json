@@ -1,6 +1,6 @@
 {
-  "version": "1.33",
-  "build": 43,
+  "version": "1.34",
+  "build": 44,
   "zip_b64": "MacVoice.zip.b64",
-  "notes": "Hang fix, round two — built from your Sample Process file. The freeze was the microphone start itself stalling inside macOS's audio system (the Bluetooth route never answered), right on the app's main thread. The mic start now runs in the background under a 5-second watchdog: if the audio system ever stalls like that again, the app stays alive, the bar comes down, and you get a 'Microphone didn't respond' message instead of a frozen app. The Hub's level meter got the same treatment."
+  "notes": "The ✨ Rewrite pill no longer sits on top of your writing. It now docks at the side of the text box — just outside the box at its right end, below it (or above it when below has no room), and only ever over the box itself when the box fills the whole screen. Includes the v1.33 hang fix."
 }
