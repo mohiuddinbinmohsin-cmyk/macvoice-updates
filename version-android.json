@@ -1,1 +1,9 @@
-{"version": "1.48", "build": 54, "apk_b64": "VoiceToText.apk.b64", "notes": "Groq removed completely — no Groq key, no Groq step; the fallback is the Gemini-only chain again (streaming, then Google Transcribe, then Gemini). The Gemini fallback is faster now: it sends compressed AAC audio instead of the big WAV file (if that is ever refused, it retries with WAV as before). Rollback to v1.47 is available in the App Update card.", "rollback_version": "1.47", "rollback_build": 55, "rollback_apk_b64": "VoiceToText-rollback.apk.b64"}
+{
+  "version": "1.49",
+  "build": 56,
+  "apk_b64": "VoiceToText.apk.b64",
+  "notes": "✨ 'সুন্দর করে লেখো' এখন Cleanup-এর কাজটাই করে (সেরাটা, মেনুর একদম উপরে) + Formal-এর নিচে বাংলায়/ইংলিশে কনভার্ট • Bubble-এর transparency slider + রঙ বাছাই (Dictation Options) • পরপর dictation-এর মাঝে ফাঁকা লাইন • WhatsApp-এর 'Message' hint লেখায় ঢোকার bug fix",
+  "rollback_version": "1.48",
+  "rollback_build": 57,
+  "rollback_apk_b64": "VoiceToText-rollback.apk.b64"
+}
