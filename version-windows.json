@@ -1,6 +1,1 @@
-{
-  "version": "2.23",
-  "build": 25,
-  "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "Two phone-parity updates (Mac 1.35's mirror). 1) The ✨ menu is now exactly the phone's: ✨ সুন্দর করে লেখো runs the strong Cleanup editor (the old light tidy is gone), and two new one-tap presets join — 🔄 বাংলায় কনভার্ট করো and 🔄 ইংলিশে কনভার্ট করো — in the phone's order. 2) Eight new bar animations from the phone join the existing nineteen (27 in all): Silk Wave, LED Stack, Mirror Bars, Rainbow Bars, Thin Bars, Diamond Dance, Spark Line and Halo Bars. Nothing existing changes."
-}
+{"build":26,"notes":"New: Mic boost (Settings → General, under Input level) — Mac 1.36's mirror. If your mic sits far away, its signal arrives weak — the bar barely moves and dictation gets a thin signal. The slider (×1.0–×8.0) amplifies the captured audio itself, past the computer's own input limit, so the bar dances with your voice again and transcription gets the stronger signal too. A soft limiter keeps loud speech from clipping; room noise rises with the boost, so raise it only as far as you need. The Input level meter shows the boosted level live.","version":"2.24","zip_b64":"WindowsVoice.zip.b64"}
