@@ -1,9 +1,9 @@
 {
-  "version": "1.49",
-  "build": 56,
+  "version": "1.50",
+  "build": 58,
   "apk_b64": "VoiceToText.apk.b64",
-  "notes": "✨ 'সুন্দর করে লেখো' এখন Cleanup-এর কাজটাই করে (সেরাটা, মেনুর একদম উপরে) + Formal-এর নিচে বাংলায়/ইংলিশে কনভার্ট • Bubble-এর transparency slider + রঙ বাছাই (Dictation Options) • পরপর dictation-এর মাঝে ফাঁকা লাইন • WhatsApp-এর 'Message' hint লেখায় ঢোকার bug fix",
-  "rollback_version": "1.48",
-  "rollback_build": 57,
+  "notes": "WhatsApp-এর 'Message' hint fix, দ্বিতীয় চেষ্টা: v1.49-এর flag WhatsApp দেয় না — এবার field-এর লেখা তার নিজের hint-এর সাথে মিললেই ফাঁকা ধরা হয়, তাই hint আর dictation-এ ঢুকবে না",
+  "rollback_version": "1.49",
+  "rollback_build": 59,
   "rollback_apk_b64": "VoiceToText-rollback.apk.b64"
 }
