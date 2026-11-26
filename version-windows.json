@@ -1,6 +1,6 @@
 {
-  "version": "2.22",
-  "build": 24,
+  "version": "2.23",
+  "build": 25,
   "zip_b64": "WindowsVoice.zip.b64",
-  "notes": "The ✨ Rewrite pill no longer sits on top of your writing (Mac 1.34's mirror). It now docks at the side of the text box — just outside the box at its right end, below it (or above it when below has no room), and only ever over the box itself when the box fills the whole screen."
+  "notes": "Two phone-parity updates (Mac 1.35's mirror). 1) The ✨ menu is now exactly the phone's: ✨ সুন্দর করে লেখো runs the strong Cleanup editor (the old light tidy is gone), and two new one-tap presets join — 🔄 বাংলায় কনভার্ট করো and 🔄 ইংলিশে কনভার্ট করো — in the phone's order. 2) Eight new bar animations from the phone join the existing nineteen (27 in all): Silk Wave, LED Stack, Mirror Bars, Rainbow Bars, Thin Bars, Diamond Dance, Spark Line and Halo Bars. Nothing existing changes."
 }
