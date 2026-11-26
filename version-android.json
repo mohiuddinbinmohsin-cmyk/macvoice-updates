@@ -1,9 +1,9 @@
 {
-  "version": "1.50",
-  "build": 58,
+  "version": "1.51",
+  "build": 60,
   "apk_b64": "VoiceToText.apk.b64",
-  "notes": "WhatsApp-এর 'Message' hint fix, দ্বিতীয় চেষ্টা: v1.49-এর flag WhatsApp দেয় না — এবার field-এর লেখা তার নিজের hint-এর সাথে মিললেই ফাঁকা ধরা হয়, তাই hint আর dictation-এ ঢুকবে না",
-  "rollback_version": "1.49",
-  "rollback_build": 59,
+  "notes": "'Message' hint fix, তৃতীয় চেষ্টা: WhatsApp/Messenger field-এর placeholder লেখা ('Message' ইত্যাদি) এখন সরাসরি চেনা হয় — ফাঁকা chat-এ dictation শুরুতে ওই শব্দ আর আসবে না",
+  "rollback_version": "1.50",
+  "rollback_build": 61,
   "rollback_apk_b64": "VoiceToText-rollback.apk.b64"
 }
