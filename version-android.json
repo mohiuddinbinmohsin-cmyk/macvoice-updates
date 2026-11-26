@@ -1,9 +1,1 @@
-{
-  "version": "1.52",
-  "build": 62,
-  "apk_b64": "VoiceToText.apk.b64",
-  "notes": "UI round: নিচের bar-এ Settings এখন মাঝখানে, Dictionary ডানে • API Setup আলাদা section (Settings-এর উপরে) • Bubble-এর রঙ 14টা + মাইকের চিহ্ন বাছাই • আরও 6টা নতুন animation (মোট 12টা) • ✨ panel এখন তোমার লেখার পাশেই floating আসে • UI আরও সুন্দর করে সাজানো",
-  "rollback_version": "1.51",
-  "rollback_build": 63,
-  "rollback_apk_b64": "VoiceToText-rollback.apk.b64"
-}
+{"apk_b64":"VoiceToText.apk.b64","build":64,"notes":"Settings খুললেই আসল bubble এখন screen-এর উপরেই ভাসবে — রঙ, চিহ্ন, size, স্বচ্ছতা বদলালেই লাইভ ভাসমান bubble-এ দেখা যাবে • যেই রঙ/চিহ্নটা selected, তার চারপাশে সোনালি ring থাকবে • রঙ আর চিহ্নের সব option এখন screen-এর ভিতরেই পুরোটা দেখা যাবে, ডানদিকে কাটবে না • Preview bubble-টাও এখন তোমার বাছাই করা রঙই পরবে","rollback_apk_b64":"VoiceToText-rollback.apk.b64","rollback_build":65,"rollback_version":"1.52","version":"1.53"}
