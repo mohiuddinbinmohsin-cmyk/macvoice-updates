@@ -1,9 +1,9 @@
 {
-  "version": "1.51",
-  "build": 60,
+  "version": "1.52",
+  "build": 62,
   "apk_b64": "VoiceToText.apk.b64",
-  "notes": "'Message' hint fix, তৃতীয় চেষ্টা: WhatsApp/Messenger field-এর placeholder লেখা ('Message' ইত্যাদি) এখন সরাসরি চেনা হয় — ফাঁকা chat-এ dictation শুরুতে ওই শব্দ আর আসবে না",
-  "rollback_version": "1.50",
-  "rollback_build": 61,
+  "notes": "UI round: নিচের bar-এ Settings এখন মাঝখানে, Dictionary ডানে • API Setup আলাদা section (Settings-এর উপরে) • Bubble-এর রঙ 14টা + মাইকের চিহ্ন বাছাই • আরও 6টা নতুন animation (মোট 12টা) • ✨ panel এখন তোমার লেখার পাশেই floating আসে • UI আরও সুন্দর করে সাজানো",
+  "rollback_version": "1.51",
+  "rollback_build": 63,
   "rollback_apk_b64": "VoiceToText-rollback.apk.b64"
 }
